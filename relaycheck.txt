@@ -9,7 +9,7 @@ pass: anon-cs-de
 pass: anon-cs-dk
 pass: anon-cs-dus1
 pass: anon-cs-dus4
-pass: anon-cs-finland
+pass: anon-cs-finland (1 retry)
 pass: anon-cs-fr
 pass: anon-cs-hungary
 pass: anon-cs-il
