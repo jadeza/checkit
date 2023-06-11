@@ -38,7 +38,6 @@ pass: cisco-ipv6-doh
 pass: cisco-sandbox
 pass: cleanbrowsing-adult
 pass: cleanbrowsing-family
-pass: cleanbrowsing-security (2 retries)
 pass: cloudflare
 pass: cloudflare-family
 pass: cloudflare-family-ipv6
@@ -103,7 +102,6 @@ pass: cs-vancouver
 pass: dct-at1
 pass: dct-nl1
 pass: dct-ru1
-pass: decloudus-nogoogle-tst
 pass: decloudus-nogoogle-tstipv6
 pass: deffer-dns.au
 pass: dns.b33.network-dnscrypt
