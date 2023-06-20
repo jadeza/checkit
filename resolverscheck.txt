@@ -38,7 +38,6 @@ pass: cisco-ipv6-doh
 pass: cisco-sandbox
 pass: cleanbrowsing-adult
 pass: cleanbrowsing-family
-pass: cleanbrowsing-security
 pass: cloudflare
 pass: cloudflare-family
 pass: cloudflare-family-ipv6
@@ -104,6 +103,7 @@ pass: dct-nl1
 pass: dct-ru1
 pass: decloudus-nogoogle-tstipv6
 pass: deffer-dns.au
+pass: dns.b33.network-dnscrypt
 pass: dns.digitale-gesellschaft.ch
 pass: dns.digitale-gesellschaft.ch-ipv6
 pass: dns.digitalsize.net
@@ -145,7 +145,7 @@ pass: doh-cleanbrowsing-family
 pass: doh-cleanbrowsing-security
 pass: doh-crypto-sx
 pass: doh-crypto-sx-ipv6
-pass: doh-ibksturm
+pass: doh-ibksturm (1 retry)
 pass: doh.appliedprivacy.net
 pass: doh.ffmuc.net
 pass: doh.ffmuc.net-2
@@ -166,7 +166,6 @@ pass: ffmuc.net-v6
 pass: google
 pass: google-ipv6
 pass: he
-pass: ibksturm
 pass: iij
 pass: jp.tiar.app
 pass: jp.tiar.app-doh
@@ -187,7 +186,7 @@ pass: nextdns-ipv6
 pass: nextdns-ultralow
 pass: njalla-doh
 pass: openinternet
-pass: oszx (1 retry)
+pass: oszx
 pass: plan9dns-fl
 pass: plan9dns-fl-doh
 pass: plan9dns-fl-doh-ipv6
