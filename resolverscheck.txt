@@ -145,7 +145,7 @@ pass: doh-cleanbrowsing-family
 pass: doh-cleanbrowsing-security
 pass: doh-crypto-sx
 pass: doh-crypto-sx-ipv6
-pass: doh-ibksturm (1 retry)
+pass: doh-ibksturm
 pass: doh.appliedprivacy.net
 pass: doh.ffmuc.net
 pass: doh.ffmuc.net-2
@@ -166,6 +166,7 @@ pass: ffmuc.net-v6
 pass: google
 pass: google-ipv6
 pass: he
+pass: ibksturm
 pass: iij
 pass: jp.tiar.app
 pass: jp.tiar.app-doh
@@ -225,8 +226,6 @@ pass: safesurfer-doh
 pass: saldns01-conoha-ipv4
 pass: saldns02-conoha-ipv4
 pass: saldns03-conoha-ipv4
-pass: sby-doh-limotelu
-pass: sby-limotelu
 pass: scaleway-ams
 pass: scaleway-ams-ipv6
 pass: scaleway-fr
@@ -239,7 +238,6 @@ pass: sth-dnscrypt-se-ipv6
 pass: sth-doh-se
 pass: switch
 pass: techsaviours.org-dnscrypt
-pass: tuna-doh-ipv4
 pass: uncensoreddns-dk-ipv4
 pass: uncensoreddns-dk-ipv6
 pass: uncensoreddns-ipv4
