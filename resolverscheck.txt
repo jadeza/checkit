@@ -27,7 +27,6 @@ pass: ams-doh-nl-ipv6
 pass: bortzmeyer
 pass: bortzmeyer-ipv6
 pass: brahma-world-ipv6
-pass: circl-doh
 pass: circl-doh-ipv6
 pass: cisco
 pass: cisco-doh
@@ -63,7 +62,7 @@ pass: cs-dc
 pass: cs-dk
 pass: cs-dus1
 pass: cs-dus4
-pass: cs-finland
+pass: cs-finland (1 retry)
 pass: cs-fr
 pass: cs-hungary
 pass: cs-il
@@ -150,6 +149,7 @@ pass: doh-crypto-sx-ipv6
 pass: doh-ibksturm
 pass: doh.appliedprivacy.net
 pass: doh.ffmuc.net
+pass: doh.ffmuc.net-2 (1 retry)
 pass: doh.ffmuc.net-v6
 pass: doh.ffmuc.net-v6-2
 pass: doh.tiar.app
@@ -162,7 +162,6 @@ pass: easymosdns-doh
 pass: faelix-ch-ipv4
 pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
-pass: ffmuc.net (3 retries)
 pass: ffmuc.net-v6
 pass: google
 pass: google-ipv6
