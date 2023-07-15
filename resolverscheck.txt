@@ -56,7 +56,7 @@ pass: cs-austria
 pass: cs-barcelona
 pass: cs-belgium
 pass: cs-berlin
-pass: cs-brazil
+pass: cs-brazil (1 retry)
 pass: cs-bulgaria
 pass: cs-czech
 pass: cs-dc
@@ -142,8 +142,8 @@ pass: dnswarden-adult-doh
 pass: dnswarden-uncensor-dc
 pass: dnswarden-uncensor-dc-swiss
 pass: doh-cleanbrowsing-adult (1 retry)
-pass: doh-cleanbrowsing-family (1 retry)
-pass: doh-cleanbrowsing-security
+pass: doh-cleanbrowsing-family (2 retries)
+pass: doh-cleanbrowsing-security (3 retries)
 pass: doh-crypto-sx
 pass: doh-crypto-sx-ipv6
 pass: doh-ibksturm
