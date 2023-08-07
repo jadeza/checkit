@@ -88,8 +88,6 @@ pass: cs-swe
 pass: cs-sydney
 pass: cs-tokyo
 pass: cs-tx
-pass: cs-tx2
-pass: cs-tx3
 pass: cs-vancouver
 pass: dct-at1
 pass: dct-nl1
@@ -118,6 +116,8 @@ pass: dnscrypt.ca-2
 pass: dnscrypt.ca-2-doh
 pass: dnscrypt.ca-2-doh-ipv6
 pass: dnscrypt.ca-2-ipv6
+pass: dnscrypt.pl
+pass: dnscrypt.pl-guardian
 pass: dnscrypt.uk-ipv4
 pass: dnscrypt.uk-ipv6
 pass: dnsforfamily
