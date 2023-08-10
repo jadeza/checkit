@@ -36,7 +36,6 @@ pass: cisco-ipv6-doh
 pass: cisco-sandbox
 pass: cleanbrowsing-adult
 pass: cleanbrowsing-family
-pass: cleanbrowsing-security
 pass: cloudflare
 pass: cloudflare-family
 pass: cloudflare-family-ipv6
@@ -230,7 +229,7 @@ pass: sth-dnscrypt-se-ipv6
 pass: sth-doh-se
 pass: switch
 pass: techsaviours.org-dnscrypt
-pass: tuna-doh-ipv4 (1 retry)
+pass: tuna-doh-ipv4
 pass: uncensoreddns-dk-ipv4
 pass: uncensoreddns-dk-ipv6
 pass: uncensoreddns-ipv4
