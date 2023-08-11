@@ -24,6 +24,7 @@ pass: ams-doh-nl
 pass: ams-doh-nl-ipv6
 pass: bortzmeyer
 pass: bortzmeyer-ipv6
+pass: brahma-world
 pass: brahma-world-ipv6
 pass: circl-doh
 pass: circl-doh-ipv6
@@ -152,6 +153,7 @@ pass: easymosdns-doh
 pass: faelix-ch-ipv4
 pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
+pass: ffmuc.net (3 retries)
 pass: ffmuc.net-v6
 pass: google
 pass: google-ipv6
