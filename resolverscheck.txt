@@ -22,7 +22,6 @@ pass: ams-dnscrypt-nl
 pass: ams-dnscrypt-nl-ipv6
 pass: ams-doh-nl
 pass: ams-doh-nl-ipv6
-pass: bebasdns
 pass: bebasdns-security
 pass: bortzmeyer
 pass: bortzmeyer-ipv6
@@ -228,6 +227,7 @@ pass: ffmuc.net-v6
 pass: google
 pass: google-ipv6
 pass: he
+pass: ibksturm
 pass: iij
 pass: jp.tiar.app
 pass: jp.tiar.app-doh
