@@ -63,10 +63,9 @@ pass: cs-dus4
 pass: cs-finland
 pass: cs-fr
 pass: cs-hungary
-pass: cs-il
+pass: cs-il (2 retries)
 pass: cs-india
 pass: cs-ireland
-pass: cs-london
 pass: cs-madrid
 pass: cs-manchester
 pass: cs-md
@@ -79,7 +78,7 @@ pass: cs-nv
 pass: cs-nyc1
 pass: cs-ore
 pass: cs-poland
-pass: cs-pt
+pass: cs-pt (1 retry)
 pass: cs-ro
 pass: cs-rome
 pass: cs-sea
@@ -302,7 +301,7 @@ pass: sth-dnscrypt-se-ipv6
 pass: sth-doh-se
 pass: switch
 pass: techsaviours.org-dnscrypt
-pass: tuna-doh-ipv4 (1 retry)
+pass: tuna-doh-ipv4
 pass: tuna-doh-ipv6
 pass: uncensoreddns-dk-ipv4
 pass: uncensoreddns-dk-ipv6
