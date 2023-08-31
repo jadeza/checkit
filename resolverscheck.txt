@@ -63,7 +63,7 @@ pass: cs-dus4
 pass: cs-finland
 pass: cs-fr
 pass: cs-hungary
-pass: cs-il (2 retries)
+pass: cs-il
 pass: cs-india
 pass: cs-ireland
 pass: cs-madrid
@@ -78,7 +78,7 @@ pass: cs-nv
 pass: cs-nyc1
 pass: cs-ore
 pass: cs-poland
-pass: cs-pt (1 retry)
+pass: cs-pt
 pass: cs-ro
 pass: cs-rome
 pass: cs-sea
@@ -197,14 +197,14 @@ pass: dnsforge.de
 pass: dnslow.me
 pass: dnspod
 pass: dnswarden-adult-doh
-pass: dnswarden-uncensor-dc
+pass: dnswarden-uncensor-dc (1 retry)
 pass: dnswarden-uncensor-dc-swiss
 pass: doh-cleanbrowsing-adult
 pass: doh-cleanbrowsing-family
 pass: doh-cleanbrowsing-security
 pass: doh-crypto-sx
 pass: doh-crypto-sx-ipv6
-pass: doh-ibksturm
+pass: doh-ibksturm (1 retry)
 pass: doh.appliedprivacy.net
 pass: doh.ffmuc.net
 pass: doh.ffmuc.net-2
@@ -224,7 +224,7 @@ pass: ffmuc.net-v6
 pass: google
 pass: google-ipv6
 pass: he
-pass: ibksturm
+pass: ibksturm (3 retries)
 pass: iij
 pass: jp.tiar.app
 pass: jp.tiar.app-doh
