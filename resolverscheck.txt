@@ -275,7 +275,6 @@ pass: plan9dns-nj
 pass: plan9dns-nj-doh
 pass: plan9dns-nj-doh-ipv6
 pass: pryv8boi
-pass: publicarray-au2-doh
 pass: qihoo360-doh
 pass: quad101
 pass: quad9-dnscrypt-ip4-filter-ecs-pri
