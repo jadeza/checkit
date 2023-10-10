@@ -42,7 +42,6 @@ pass: cisco-ipv6-doh
 pass: cisco-sandbox
 pass: cleanbrowsing-adult
 pass: cleanbrowsing-family
-pass: cleanbrowsing-security
 pass: cloudflare
 pass: cloudflare-family
 pass: cloudflare-family-ipv6
@@ -73,7 +72,7 @@ pass: cs-india
 pass: cs-ireland
 pass: cs-madrid
 pass: cs-manchester
-pass: cs-mexico (1 retry)
+pass: cs-mexico
 pass: cs-milan
 pass: cs-nc
 pass: cs-nl
@@ -216,7 +215,7 @@ pass: dnsforge.de
 pass: dnslow.me
 pass: dnspod
 pass: dnswarden-adult-doh
-pass: dnswarden-uncensor-dc (2 retries)
+pass: dnswarden-uncensor-dc (1 retry)
 pass: dnswarden-uncensor-dc-swiss
 pass: doh-cleanbrowsing-adult
 pass: doh-cleanbrowsing-family
