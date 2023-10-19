@@ -4,6 +4,7 @@ pass: adfilter-per
 pass: adfilter-per-ipv6
 pass: adfilter-syd
 pass: adfilter-syd-ipv6
+pass: adfree.usableprivacy.net
 pass: adguard-dns
 pass: adguard-dns-doh
 pass: adguard-dns-family
@@ -48,7 +49,7 @@ pass: cloudflare-family-ipv6
 pass: cloudflare-ipv6
 pass: cloudflare-security
 pass: cloudflare-security-ipv6
-pass: comodo-02
+pass: comodo-02 (1 retry)
 pass: controld-block-malware
 pass: controld-block-malware-ad
 pass: controld-block-malware-ad-social
@@ -141,7 +142,7 @@ pass: dnscry.pt-johannesburg-ipv4
 pass: dnscry.pt-johannesburg-ipv6
 pass: dnscry.pt-lasvegas-ipv4
 pass: dnscry.pt-lasvegas-ipv6
-pass: dnscry.pt-libertylake-ipv4 (1 retry)
+pass: dnscry.pt-libertylake-ipv4
 pass: dnscry.pt-libertylake-ipv6
 pass: dnscry.pt-london-ipv4
 pass: dnscry.pt-london-ipv6
@@ -215,13 +216,14 @@ pass: dnsforge.de
 pass: dnslow.me
 pass: dnspod
 pass: dnswarden-adult-doh
-pass: dnswarden-uncensor-dc
+pass: dnswarden-uncensor-dc (1 retry)
 pass: dnswarden-uncensor-dc-swiss
 pass: doh-cleanbrowsing-adult
 pass: doh-cleanbrowsing-family
 pass: doh-cleanbrowsing-security
 pass: doh-crypto-sx
 pass: doh-crypto-sx-ipv6
+pass: doh-ibksturm
 pass: doh.appliedprivacy.net
 pass: doh.ffmuc.net
 pass: doh.ffmuc.net-2
@@ -237,7 +239,7 @@ pass: easymosdns-doh
 pass: faelix-ch-ipv4
 pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
-pass: ffmuc.net
+pass: ffmuc.net (1 retry)
 pass: ffmuc.net-v6
 pass: google
 pass: google-ipv6
@@ -330,4 +332,6 @@ pass: userspace-australia-ipv6
 pass: v.dnscrypt.uk-ipv4
 pass: v.dnscrypt.uk-ipv6
 pass: wevpn-singapore
+pass: wikimedia
+pass: wikimedia-ipv6
 pass: yandex
