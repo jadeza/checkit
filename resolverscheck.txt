@@ -22,10 +22,6 @@ pass: ams-dnscrypt-nl
 pass: ams-dnscrypt-nl-ipv6
 pass: ams-doh-nl
 pass: ams-doh-nl-ipv6
-pass: bebasdns
-pass: bebasdns-family
-pass: bebasdns-security
-pass: bebasdns-unfiltered
 pass: bortzmeyer
 pass: bortzmeyer-ipv6
 pass: brahma-world
