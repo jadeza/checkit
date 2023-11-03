@@ -191,7 +191,6 @@ pass: dnscry.pt-warsaw-ipv4
 pass: dnscry.pt-warsaw-ipv6
 pass: dnscry.pt-warsaw02-ipv4
 pass: dnscry.pt-warsaw02-ipv6
-pass: dnscrypt-de-blahdns-ipv4
 pass: dnscrypt-de-blahdns-ipv6
 pass: dnscrypt.be
 pass: dnscrypt.ca-1
@@ -215,6 +214,7 @@ pass: dnsforge.de
 pass: dnslow.me
 pass: dnspod
 pass: dnswarden-adult-doh
+pass: dnswarden-uncensor-dc (1 retry)
 pass: dnswarden-uncensor-dc-swiss
 pass: doh-cleanbrowsing-adult
 pass: doh-cleanbrowsing-family
@@ -222,7 +222,7 @@ pass: doh-cleanbrowsing-security
 pass: doh-crypto-sx
 pass: doh-crypto-sx-ipv6
 pass: doh-ibksturm
-pass: doh.appliedprivacy.net
+pass: doh.appliedprivacy.net (1 retry)
 pass: doh.ffmuc.net
 pass: doh.ffmuc.net-2
 pass: doh.ffmuc.net-v6
