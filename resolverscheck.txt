@@ -42,7 +42,6 @@ pass: cisco-ipv6-doh
 pass: cisco-sandbox
 pass: cleanbrowsing-adult
 pass: cleanbrowsing-family
-pass: cleanbrowsing-security
 pass: cloudflare
 pass: cloudflare-family
 pass: cloudflare-family-ipv6
@@ -93,9 +92,9 @@ pass: cs-sydney
 pass: cs-tokyo
 pass: cs-tx
 pass: cs-vancouver
-pass: dct-at1
+pass: dct-at
 pass: dct-nl
-pass: dct-ru1
+pass: dct-ru
 pass: decloudus-nogoogle-tst
 pass: decloudus-nogoogle-tstipv6
 pass: deffer-dns.au
@@ -212,7 +211,7 @@ pass: dnsforge.de
 pass: dnslow.me
 pass: dnspod
 pass: dnswarden-adult-doh
-pass: dnswarden-uncensor-dc (1 retry)
+pass: dnswarden-uncensor-dc (2 retries)
 pass: dnswarden-uncensor-dc-swiss
 pass: doh-cleanbrowsing-adult
 pass: doh-cleanbrowsing-family
@@ -240,7 +239,7 @@ pass: ffmuc.net-v6
 pass: google
 pass: google-ipv6
 pass: he
-pass: ibksturm (2 retries)
+pass: ibksturm
 pass: iij
 pass: jp.tiar.app
 pass: jp.tiar.app-doh
@@ -282,6 +281,7 @@ pass: quad9-dnscrypt-ip4-nofilter-ecs-pri
 pass: quad9-dnscrypt-ip4-nofilter-pri
 pass: quad9-doh-ip4-port443-filter-ecs-pri
 pass: quad9-doh-ip4-port443-filter-pri
+pass: quad9-doh-ip4-port443-filter-pri (1 retry)
 pass: quad9-doh-ip4-port443-nofilter-ecs-pri
 pass: quad9-doh-ip4-port443-nofilter-pri
 pass: quad9-doh-ip4-port5053-filter-ecs-pri
