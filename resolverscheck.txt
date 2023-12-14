@@ -25,7 +25,6 @@ pass: ams-doh-nl-ipv6
 pass: bebasdns
 pass: bebasdns-family
 pass: bebasdns-security
-pass: bebasdns-unfiltered-dnscrypt
 pass: bebasdns-unfiltered-doh
 pass: bortzmeyer
 pass: bortzmeyer-ipv6
@@ -213,7 +212,7 @@ pass: doh-cleanbrowsing-family
 pass: doh-cleanbrowsing-security
 pass: doh-crypto-sx
 pass: doh-crypto-sx-ipv6
-pass: doh-ibksturm
+pass: doh-ibksturm (3 retries)
 pass: doh.appliedprivacy.net
 pass: doh.ffmuc.net
 pass: doh.ffmuc.net-2
@@ -236,7 +235,6 @@ pass: ffmuc.net-v6
 pass: google
 pass: google-ipv6
 pass: he
-pass: ibksturm
 pass: iij
 pass: jp.tiar.app
 pass: jp.tiar.app-doh
@@ -310,7 +308,7 @@ pass: sth-ads-doh-se
 pass: sth-dnscrypt-se
 pass: sth-dnscrypt-se-ipv6
 pass: sth-doh-se
-pass: switch (1 retry)
+pass: switch
 pass: techsaviours.org-dnscrypt
 pass: tuna-doh-ipv6
 pass: uncensoreddns-dk-ipv4
