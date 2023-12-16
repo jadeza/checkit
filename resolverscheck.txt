@@ -91,7 +91,6 @@ pass: cs-tokyo
 pass: cs-tx
 pass: dct-at
 pass: dct-nl
-pass: dct-ru (3 retries)
 pass: decloudus-nogoogle-tst
 pass: decloudus-nogoogle-tstipv6
 pass: deffer-dns.au
@@ -230,7 +229,7 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
-pass: ffmuc.net (1 retry)
+pass: ffmuc.net (3 retries)
 pass: ffmuc.net-v6
 pass: google
 pass: google-ipv6
