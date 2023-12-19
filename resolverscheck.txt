@@ -23,8 +23,8 @@ pass: ams-dnscrypt-nl-ipv6
 pass: ams-doh-nl
 pass: ams-doh-nl-ipv6
 pass: bebasdns
-pass: bebasdns-family (1 retry)
-pass: bebasdns-security (1 retry)
+pass: bebasdns-family
+pass: bebasdns-security
 pass: bebasdns-unfiltered-doh
 pass: bortzmeyer
 pass: bortzmeyer-ipv6
@@ -66,6 +66,7 @@ pass: cs-dus1
 pass: cs-dus4
 pass: cs-fr
 pass: cs-hungary
+pass: cs-il
 pass: cs-india
 pass: cs-ireland
 pass: cs-madrid
@@ -181,7 +182,6 @@ pass: dnscry.pt-valdivia-ipv4
 pass: dnscry.pt-valdivia-ipv6
 pass: dnscry.pt-vienna-ipv4
 pass: dnscry.pt-vienna-ipv6
-pass: dnscry.pt-warsaw-ipv4
 pass: dnscry.pt-warsaw-ipv6
 pass: dnscry.pt-warsaw02-ipv4
 pass: dnscry.pt-warsaw02-ipv6
@@ -206,7 +206,7 @@ pass: dnsforge.de
 pass: dnslow.me
 pass: dnspod
 pass: dnswarden-adult-doh
-pass: dnswarden-uncensor-dc (1 retry)
+pass: dnswarden-uncensor-dc
 pass: dnswarden-uncensor-dc-swiss
 pass: doh-cleanbrowsing-adult
 pass: doh-cleanbrowsing-family
@@ -231,12 +231,12 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
-pass: ffmuc.net
+pass: ffmuc.net (2 retries)
 pass: ffmuc.net-v6
 pass: google
 pass: google-ipv6
 pass: he
-pass: ibksturm (1 retry)
+pass: ibksturm
 pass: iij
 pass: jp.tiar.app
 pass: jp.tiar.app-doh
@@ -310,7 +310,7 @@ pass: sth-ads-doh-se
 pass: sth-dnscrypt-se
 pass: sth-dnscrypt-se-ipv6
 pass: sth-doh-se
-pass: switch (1 retry)
+pass: switch
 pass: techsaviours.org-dnscrypt
 pass: tuna-doh-ipv6
 pass: uncensoreddns-dk-ipv4
