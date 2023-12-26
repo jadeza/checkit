@@ -235,7 +235,7 @@ pass: ffmuc.net (2 retries)
 pass: ffmuc.net-v6
 pass: google
 pass: google-ipv6
-pass: he
+pass: he (1 retry)
 pass: ibksturm
 pass: iij
 pass: jp.tiar.app
