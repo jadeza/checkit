@@ -143,7 +143,6 @@ pass: dnscry.pt-london-ipv4
 pass: dnscry.pt-london-ipv6
 pass: dnscry.pt-losangeles-ipv4
 pass: dnscry.pt-losangeles-ipv6
-pass: dnscry.pt-madrid-ipv4
 pass: dnscry.pt-madrid-ipv6
 pass: dnscry.pt-miami-ipv4
 pass: dnscry.pt-miami-ipv6
@@ -230,6 +229,7 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
+pass: ffmuc.net (3 retries)
 pass: ffmuc.net-v6
 pass: google
 pass: google-ipv6
@@ -244,7 +244,7 @@ pass: jp.tiarap.org
 pass: jp.tiarap.org-ipv6
 pass: libredns
 pass: libredns-noads
-pass: meganerd (1 retry)
+pass: meganerd
 pass: meganerd-doh-ipv4
 pass: meganerd-doh-ipv6
 pass: meganerd-ipv6
@@ -271,7 +271,6 @@ pass: pryv8boi
 pass: qihoo360-doh
 pass: quad101
 pass: quad9-dnscrypt-ip4-filter-ecs-pri
-pass: quad9-dnscrypt-ip4-filter-ecs-pri (1 retry)
 pass: quad9-dnscrypt-ip4-filter-pri
 pass: quad9-dnscrypt-ip4-nofilter-ecs-pri
 pass: quad9-dnscrypt-ip4-nofilter-pri
@@ -279,7 +278,6 @@ pass: quad9-doh-ip4-port443-filter-ecs-pri
 pass: quad9-doh-ip4-port443-filter-pri
 pass: quad9-doh-ip4-port443-nofilter-ecs-pri
 pass: quad9-doh-ip4-port443-nofilter-pri
-pass: quad9-doh-ip4-port443-nofilter-pri (1 retry)
 pass: quad9-doh-ip4-port5053-filter-ecs-pri
 pass: quad9-doh-ip4-port5053-filter-pri
 pass: quad9-doh-ip4-port5053-nofilter-ecs-pri
