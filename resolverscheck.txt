@@ -205,7 +205,7 @@ pass: doh-cleanbrowsing-family
 pass: doh-cleanbrowsing-security
 pass: doh-crypto-sx
 pass: doh-crypto-sx-ipv6
-pass: doh-ibksturm
+pass: doh-ibksturm (1 retry)
 pass: doh.appliedprivacy.net
 pass: doh.ffmuc.net
 pass: doh.ffmuc.net-2
@@ -227,6 +227,7 @@ pass: ffmuc.net-v6
 pass: google
 pass: google-ipv6
 pass: he
+pass: ibksturm
 pass: iij
 pass: jp.tiar.app
 pass: jp.tiar.app-doh
