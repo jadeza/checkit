@@ -222,12 +222,12 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
-pass: ffmuc.net (2 retries)
+pass: ffmuc.net
 pass: ffmuc.net-v6
 pass: google
 pass: google-ipv6
 pass: he
-pass: ibksturm (2 retries)
+pass: ibksturm
 pass: iij
 pass: jp.tiar.app
 pass: jp.tiar.app-doh
@@ -237,7 +237,7 @@ pass: jp.tiarap.org
 pass: jp.tiarap.org-ipv6
 pass: libredns
 pass: libredns-noads
-pass: meganerd (1 retry)
+pass: meganerd
 pass: meganerd-doh-ipv4
 pass: meganerd-doh-ipv6
 pass: meganerd-ipv6
