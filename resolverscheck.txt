@@ -78,7 +78,7 @@ pass: cs-nyc1
 pass: cs-ore
 pass: cs-poland
 pass: cs-pt
-pass: cs-ro (1 retry)
+pass: cs-ro
 pass: cs-rome
 pass: cs-sea
 pass: cs-serbia
@@ -288,7 +288,7 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
-pass: ffmuc.net
+pass: ffmuc.net (3 retries)
 pass: ffmuc.net-v6
 pass: google
 pass: google-ipv6
