@@ -302,7 +302,7 @@ pass: jp.tiarap.org
 pass: jp.tiarap.org-ipv6
 pass: libredns
 pass: libredns-noads
-pass: meganerd
+pass: meganerd (1 retry)
 pass: meganerd-doh-ipv4
 pass: meganerd-doh-ipv6
 pass: meganerd-ipv6
@@ -354,7 +354,7 @@ pass: safesurfer-doh
 pass: saldns01-conoha-ipv4
 pass: saldns02-conoha-ipv4
 pass: saldns03-conoha-ipv4
-pass: sby-doh-limotelu (3 retries)
+pass: sby-doh-limotelu
 pass: sby-limotelu
 pass: scaleway-ams
 pass: scaleway-ams-ipv6
@@ -382,5 +382,9 @@ pass: v.dnscrypt.uk-ipv6
 pass: wevpn-singapore
 pass: wikimedia
 pass: wikimedia-ipv6
+pass: yandex
 pass: yandex-family
+pass: yandex-family-ipv6
+pass: yandex-ipv6
 pass: yandex-safe
+pass: yandex-safe-ipv6
