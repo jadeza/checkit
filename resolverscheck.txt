@@ -73,7 +73,7 @@ pass: cs-madrid
 pass: cs-manchester
 pass: cs-mexico
 pass: cs-milan
-pass: cs-nc (1 retry)
+pass: cs-nc
 pass: cs-nl
 pass: cs-norway
 pass: cs-nv
@@ -367,7 +367,7 @@ pass: sth-ads-doh-se
 pass: sth-dnscrypt-se
 pass: sth-dnscrypt-se-ipv6
 pass: sth-doh-se
-pass: switch
+pass: switch (1 retry)
 pass: techsaviours.org-dnscrypt
 pass: tirapan-doh-ipv4
 pass: tirapan-doh-ipv6
