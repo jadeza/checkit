@@ -10,7 +10,7 @@ pass: anon-cs-dus4
 pass: anon-cs-fr
 pass: anon-cs-hungary
 pass: anon-cs-il
-pass: anon-cs-ireland (1 retry)
+pass: anon-cs-ireland
 pass: anon-cs-madrid
 pass: anon-cs-manchester
 pass: anon-cs-nc
@@ -56,7 +56,6 @@ pass: dnscry.pt-anon-adelaide-ipv4
 pass: dnscry.pt-anon-allentown-ipv4
 pass: dnscry.pt-anon-amsterdam-ipv4
 pass: dnscry.pt-anon-atlanta-ipv4
-pass: dnscry.pt-anon-castlegar-ipv4
 pass: dnscry.pt-anon-chicago-ipv4
 pass: dnscry.pt-anon-chisinau-ipv4
 pass: dnscry.pt-anon-coeurdalene-ipv4
@@ -119,3 +118,4 @@ pass: dnscry.pt-anon-tokyo02-ipv4
 pass: dnscry.pt-anon-toronto-ipv4
 pass: dnscry.pt-anon-valdivia-ipv4
 pass: dnscry.pt-anon-vienna-ipv4
+pass: dnscry.pt-anon-warsaw02-ipv4
