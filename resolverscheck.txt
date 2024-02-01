@@ -90,7 +90,7 @@ pass: cs-swe
 pass: cs-sydney
 pass: cs-tokyo
 pass: cs-tx
-pass: cs-vancouver (1 retry)
+pass: cs-vancouver
 pass: dct-nl
 pass: dct-ru
 pass: decloudus-nogoogle-tst
@@ -151,7 +151,7 @@ pass: dnscry.pt-helsinki-ipv4
 pass: dnscry.pt-helsinki-ipv6
 pass: dnscry.pt-hongkong-ipv4
 pass: dnscry.pt-hongkong-ipv6
-pass: dnscry.pt-istanbul-ipv4
+pass: dnscry.pt-istanbul-ipv4 (1 retry)
 pass: dnscry.pt-istanbul-ipv6
 pass: dnscry.pt-jakarta-ipv4
 pass: dnscry.pt-johannesburg-ipv4
@@ -198,6 +198,7 @@ pass: dnscry.pt-phoenix-ipv4
 pass: dnscry.pt-phoenix-ipv6
 pass: dnscry.pt-portedwards-ipv4
 pass: dnscry.pt-portedwards-ipv6
+pass: dnscry.pt-portland-ipv4 (1 retry)
 pass: dnscry.pt-portland-ipv6
 pass: dnscry.pt-riga-ipv4
 pass: dnscry.pt-riga-ipv6
@@ -256,7 +257,6 @@ pass: dnscrypt.uk-ipv6
 pass: dnsforfamily
 pass: dnsforfamily-doh
 pass: dnsforfamily-doh-no-safe-search
-pass: dnsforfamily-no-safe-search
 pass: dnsforfamily-v6
 pass: dnsforge.de
 pass: dnslow.me
@@ -285,6 +285,7 @@ pass: faelix-ch-ipv4
 pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
+pass: fdn (1 retry)
 pass: fdn-ipv6
 pass: ffmuc.net (1 retry)
 pass: ffmuc.net-v6
