@@ -103,9 +103,6 @@ pass: dns.digitalsize.net
 pass: dns.digitalsize.net-ipv6
 pass: dns.ryan-palmer
 pass: dns.sb
-pass: dns0
-pass: dns0-kids
-pass: dns0-unfiltered
 pass: dnscry.pt-adelaide-ipv4
 pass: dnscry.pt-adelaide-ipv6
 pass: dnscry.pt-allentown-ipv4
@@ -151,7 +148,7 @@ pass: dnscry.pt-helsinki-ipv4
 pass: dnscry.pt-helsinki-ipv6
 pass: dnscry.pt-hongkong-ipv4
 pass: dnscry.pt-hongkong-ipv6
-pass: dnscry.pt-istanbul-ipv4 (1 retry)
+pass: dnscry.pt-istanbul-ipv4
 pass: dnscry.pt-istanbul-ipv6
 pass: dnscry.pt-jakarta-ipv4
 pass: dnscry.pt-johannesburg-ipv4
@@ -198,7 +195,7 @@ pass: dnscry.pt-phoenix-ipv4
 pass: dnscry.pt-phoenix-ipv6
 pass: dnscry.pt-portedwards-ipv4
 pass: dnscry.pt-portedwards-ipv6
-pass: dnscry.pt-portland-ipv4 (1 retry)
+pass: dnscry.pt-portland-ipv4
 pass: dnscry.pt-portland-ipv6
 pass: dnscry.pt-riga-ipv4
 pass: dnscry.pt-riga-ipv6
@@ -257,6 +254,7 @@ pass: dnscrypt.uk-ipv6
 pass: dnsforfamily
 pass: dnsforfamily-doh
 pass: dnsforfamily-doh-no-safe-search
+pass: dnsforfamily-no-safe-search
 pass: dnsforfamily-v6
 pass: dnsforge.de
 pass: dnslow.me
@@ -285,9 +283,8 @@ pass: faelix-ch-ipv4
 pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
-pass: fdn (1 retry)
 pass: fdn-ipv6
-pass: ffmuc.net (1 retry)
+pass: ffmuc.net
 pass: ffmuc.net-v6
 pass: google
 pass: google-ipv6
