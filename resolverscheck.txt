@@ -82,7 +82,7 @@ pass: cs-india
 pass: cs-ireland
 pass: cs-la
 pass: cs-london
-pass: cs-lv
+pass: cs-lv (1 retry)
 pass: cs-madrid
 pass: cs-manchester
 pass: cs-md
