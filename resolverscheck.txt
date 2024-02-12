@@ -89,7 +89,7 @@ pass: cs-md
 pass: cs-mexico
 pass: cs-milan
 pass: cs-montreal
-pass: cs-nc (2 retries)
+pass: cs-nc
 pass: cs-nl
 pass: cs-nl2
 pass: cs-norway
@@ -174,7 +174,6 @@ pass: dnscry.pt-hongkong-ipv4
 pass: dnscry.pt-hongkong-ipv6
 pass: dnscry.pt-istanbul-ipv4
 pass: dnscry.pt-istanbul-ipv6
-pass: dnscry.pt-jakarta-ipv4
 pass: dnscry.pt-johannesburg-ipv4
 pass: dnscry.pt-johannesburg-ipv6
 pass: dnscry.pt-kharkiv-ipv4
@@ -312,6 +311,7 @@ pass: ffmuc.net-v6
 pass: google
 pass: google-ipv6
 pass: he
+pass: ibksturm
 pass: iij
 pass: jp.tiar.app
 pass: jp.tiar.app-doh
@@ -386,7 +386,7 @@ pass: sth-ads-doh-se
 pass: sth-dnscrypt-se
 pass: sth-dnscrypt-se-ipv6
 pass: sth-doh-se
-pass: switch
+pass: switch (2 retries)
 pass: techsaviours.org-dnscrypt
 pass: tirapan-doh-ipv4
 pass: tirapan-doh-ipv6
