@@ -91,6 +91,7 @@ pass: cs-milan
 pass: cs-montreal
 pass: cs-nc
 pass: cs-nl
+pass: cs-nl2
 pass: cs-norway
 pass: cs-nv
 pass: cs-nyc1
@@ -116,7 +117,6 @@ pass: dct-nl
 pass: dct-ru
 pass: decloudus-nogoogle-tstipv6
 pass: deffer-dns.au
-pass: dns.b33.network-dnscrypt
 pass: dns.digitale-gesellschaft.ch
 pass: dns.digitale-gesellschaft.ch-ipv6
 pass: dns.digitalsize.net
@@ -179,7 +179,7 @@ pass: dnscry.pt-kharkiv-ipv4
 pass: dnscry.pt-kharkiv-ipv6
 pass: dnscry.pt-kyiv-ipv4
 pass: dnscry.pt-kyiv-ipv6
-pass: dnscry.pt-lagos-ipv4
+pass: dnscry.pt-lagos-ipv4 (1 retry)
 pass: dnscry.pt-lagos-ipv6
 pass: dnscry.pt-lasvegas-ipv4
 pass: dnscry.pt-lasvegas-ipv6
@@ -201,7 +201,6 @@ pass: dnscry.pt-mumbai-ipv4
 pass: dnscry.pt-mumbai-ipv6
 pass: dnscry.pt-munich-ipv4
 pass: dnscry.pt-munich-ipv6
-pass: dnscry.pt-naaldwijk-ipv4
 pass: dnscry.pt-naaldwijk-ipv6
 pass: dnscry.pt-newyork-ipv4
 pass: dnscry.pt-newyork-ipv6
@@ -298,7 +297,7 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
-pass: ffmuc.net
+pass: ffmuc.net (2 retries)
 pass: ffmuc.net-v6
 pass: google
 pass: google-ipv6
@@ -350,7 +349,6 @@ pass: quad9-doh-ip4-port443-nofilter-ecs-pri
 pass: quad9-doh-ip4-port443-nofilter-pri
 pass: quad9-doh-ip4-port5053-filter-ecs-pri
 pass: quad9-doh-ip4-port5053-filter-pri
-pass: quad9-doh-ip4-port5053-filter-pri (1 retry)
 pass: quad9-doh-ip4-port5053-nofilter-ecs-pri
 pass: quad9-doh-ip4-port5053-nofilter-pri
 pass: quad9-doh-ip6-port443-filter-ecs-pri
@@ -379,7 +377,7 @@ pass: sth-ads-doh-se
 pass: sth-dnscrypt-se
 pass: sth-dnscrypt-se-ipv6
 pass: sth-doh-se
-pass: switch (1 retry)
+pass: switch
 pass: techsaviours.org-dnscrypt
 pass: tirapan-doh-ipv4
 pass: tirapan-doh-ipv6
@@ -388,7 +386,6 @@ pass: uncensoreddns-dk-ipv4
 pass: uncensoreddns-dk-ipv6
 pass: uncensoreddns-ipv4
 pass: uncensoreddns-ipv6
-pass: userspace-australia
 pass: userspace-australia-ipv6
 pass: v.dnscrypt.uk-ipv4
 pass: v.dnscrypt.uk-ipv6
